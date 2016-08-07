@@ -7,5 +7,6 @@ public class Hello {
 		System.out.println("Emad Darvishi");
 		System.out.println("Added this line for show this class and "
 				+ "latest commit message in the staging view ");
+		System.out.println("im added this line in emad_new_branch");
 	}
 }
